@@ -1,0 +1,11 @@
+C:\Users\MIB\Desktop\20.09.17\IntegerLibrary\bin\Debug\IntegerLibrary.dll
+C:\Users\MIB\Desktop\20.09.17\IntegerLibrary\bin\Debug\IntegerLibrary.pdb
+C:\Users\MIB\Desktop\20.09.17\IntegerLibrary\obj\Debug\IntegerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\20.09.17\IntegerLibrary\obj\Debug\IntegerLibrary.dll
+C:\Users\MIB\Desktop\20.09.17\IntegerLibrary\obj\Debug\IntegerLibrary.pdb
+C:\Users\i vi\Downloads\20_09_17\20.09.17\IntegerLibrary\bin\Debug\IntegerLibrary.dll
+C:\Users\i vi\Downloads\20_09_17\20.09.17\IntegerLibrary\bin\Debug\IntegerLibrary.pdb
+C:\Users\i vi\Downloads\20_09_17\20.09.17\IntegerLibrary\obj\Debug\IntegerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\i vi\Downloads\20_09_17\20.09.17\IntegerLibrary\obj\Debug\IntegerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\i vi\Downloads\20_09_17\20.09.17\IntegerLibrary\obj\Debug\IntegerLibrary.dll
+C:\Users\i vi\Downloads\20_09_17\20.09.17\IntegerLibrary\obj\Debug\IntegerLibrary.pdb
