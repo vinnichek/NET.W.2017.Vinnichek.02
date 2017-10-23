@@ -1,0 +1,5 @@
+C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\bin\Debug\ArrayLibrary.dll
+C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\bin\Debug\ArrayLibrary.pdb
+C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\obj\Debug\ArrayLibrary.dll
+C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\obj\Debug\ArrayLibrary.pdb
