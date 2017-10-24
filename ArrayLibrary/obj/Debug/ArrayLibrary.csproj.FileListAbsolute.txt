@@ -3,3 +3,9 @@ C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\bin\Debug\ArrayLibrary.pd
 C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\obj\Debug\ArrayLibrary.dll
 C:\Users\Ira Vinnichek\source\repos\Task2\ArrayLibrary\obj\Debug\ArrayLibrary.pdb
+C:\Users\Ira Vinnichek\Documents\Epam Tasks\Task 2\ArrayLibrary\bin\Debug\ArrayLibrary.dll
+C:\Users\Ira Vinnichek\Documents\Epam Tasks\Task 2\ArrayLibrary\bin\Debug\ArrayLibrary.pdb
+C:\Users\Ira Vinnichek\Documents\Epam Tasks\Task 2\ArrayLibrary\obj\Debug\ArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ira Vinnichek\Documents\Epam Tasks\Task 2\ArrayLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ira Vinnichek\Documents\Epam Tasks\Task 2\ArrayLibrary\obj\Debug\ArrayLibrary.dll
+C:\Users\Ira Vinnichek\Documents\Epam Tasks\Task 2\ArrayLibrary\obj\Debug\ArrayLibrary.pdb

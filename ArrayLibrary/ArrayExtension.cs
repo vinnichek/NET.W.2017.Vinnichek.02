@@ -8,7 +8,7 @@ namespace ArrayLibrary
 {
     public class ArrayExtension
     {
-        public static List<int> FilterDigit(int[] array)
+        public static int[] FilterDigit(int digit, params int[] array)
         {
             CheckArrayForFilter(array);
             List<int> filterDigitArray = new List<int>();
@@ -16,18 +16,23 @@ namespace ArrayLibrary
             for (int i = 0; i < array.Length; i++)
             {
                 int elementOfArray = array[i];
-                while (elementOfArray != 0)
+                if (IsContainDigit(elementOfArray, digit))
                 {
-                    int digitOfElement = elementOfArray % 10;
-                    elementOfArray = elementOfArray / 10;
-                    if (digitOfElement == 7)
-                    {
-                        filterDigitArray.Add(array[i]);
-                        elementOfArray = 0;
-                    }
+                    filterDigitArray.Add(array[i]);
+                    elementOfArray = 0;
                 }
             }
-            return filterDigitArray;
+            return filterDigitArray.ToArray();
+        }
+
+        public static bool IsContainDigit(int elementOfArray, int digit)
+        {
+            while (elementOfArray != 0)
+            {
+                if (elementOfArray % 10 == digit) return true;
+                elementOfArray = elementOfArray / 10;
+            }
+            return false;
         }
 
         private static void CheckArrayForFilter(int[] array)

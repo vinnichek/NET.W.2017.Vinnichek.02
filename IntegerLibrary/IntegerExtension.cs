@@ -107,20 +107,25 @@ namespace IntegerLibrary
 
         public static double FindNthRoot(double number, double n, double accuracy)
         {
-            if ((accuracy < 0) || (n < 0))
+            if (n < 0)
+            {
+                throw new ArgumentOutOfRangeException("Incorrect input N.");
+            }
+
+            if ((accuracy < 0) || (accuracy > 1))
             {
                 throw new ArgumentOutOfRangeException("Incorrect input accuracy.");
             }
 
-            double x0 = number / n; 
-            double x1 = (1 / n) * ((n - 1) * x0 + (number / Math.Pow(x0, n - 1)));
+            double previous = number / n; 
+            double next = (1 / n) * ((n - 1) * previous + (number / Math.Pow(previous, n - 1)));
 
-            while (Math.Abs(x1 - x0) > accuracy)
+            while (Math.Abs(next - previous) > accuracy)
             {
-                x0 = x1;
-                x1 = (1 / n) * ((n - 1) * x0 + (number / Math.Pow(x0, n - 1)));
+                previous = next;
+                next = (1 / n) * ((n - 1) * previous + (number / Math.Pow(previous, n - 1)));
             }
-            return x1;
+            return next;
         }
     }
 }
